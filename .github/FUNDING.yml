@@ -1,2 +1,5 @@
-github: graykode
-custom: ["https://www.paypal.me/graykode", "https://www.buymeacoffee.com/graykode"]
+github:
+  - seonglae
+custom:
+  - 'https://paypal.me/seonglae'
+  - 'https://www.buymeacoffee.com/seongland'
