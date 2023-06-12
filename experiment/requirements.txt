@@ -2,6 +2,6 @@ gitpython
 jsonlines
 tqdm
 pydriller
-transformers==3.4.0
+transformers==4.30.0
 wandb
 knockknock
